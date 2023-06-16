@@ -24,7 +24,7 @@ namespace AppAmandio
             if (File.Exists(filePath))
             {
                 string jsonData = File.ReadAllText(filePath);
-                List<Eleve>? eleves = JsonConvert.DeserializeObject<List<Eleve>>(jsonData);
+                List<Eleve> eleves = JsonConvert.DeserializeObject<List<Eleve>>(jsonData);
                 return eleves;
             }
             else

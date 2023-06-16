@@ -20,10 +20,10 @@ namespace AppAmandio
                 switch (selection)
                 {
                     case "1":
-                        EleveMenu.EleveMenu(eleves);
+                        EleveMenu.LesEleveMenu(eleves);
                         break;
                     case "2":
-                        CoursMenu.CoursMenu(eleves);
+                        CoursMenu.LesCoursMenu(eleves);
                         break;
                     case "3":
                         Program.SaveData(filePath, eleves);
