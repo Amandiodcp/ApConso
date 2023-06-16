@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿
+using Newtonsoft.Json;
 
 namespace AppAmandio
 {
@@ -6,12 +7,13 @@ namespace AppAmandio
     {
         static void Main(string[] args)
         {
+          
             if (args.Length == 0)
             {
                 Console.WriteLine("start let's go");
                 return;
             }
-
+            
             string filePath = args[0];
 
             List<Eleve> eleves = LoadData(filePath);
@@ -23,6 +25,7 @@ namespace AppAmandio
         {
             if (File.Exists(filePath))
             {
+                Console.WriteLine("chargement du fichier " + filePath);
                 string jsonData = File.ReadAllText(filePath);
                 List<Eleve> eleves = JsonConvert.DeserializeObject<List<Eleve>>(jsonData);
                 return eleves;
