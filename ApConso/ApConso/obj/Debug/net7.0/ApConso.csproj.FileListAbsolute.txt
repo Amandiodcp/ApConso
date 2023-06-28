@@ -3,11 +3,13 @@
 /Users/amandiop/Desktop/ApConso/ApConso/ApConso/bin/Debug/net7.0/ApConso.runtimeconfig.json
 /Users/amandiop/Desktop/ApConso/ApConso/ApConso/bin/Debug/net7.0/ApConso.dll
 /Users/amandiop/Desktop/ApConso/ApConso/ApConso/bin/Debug/net7.0/ApConso.pdb
+/Users/amandiop/Desktop/ApConso/ApConso/ApConso/bin/Debug/net7.0/Newtonsoft.Json.dll
 /Users/amandiop/Desktop/ApConso/ApConso/ApConso/obj/Debug/net7.0/ApConso.csproj.AssemblyReference.cache
 /Users/amandiop/Desktop/ApConso/ApConso/ApConso/obj/Debug/net7.0/ApConso.GeneratedMSBuildEditorConfig.editorconfig
 /Users/amandiop/Desktop/ApConso/ApConso/ApConso/obj/Debug/net7.0/ApConso.AssemblyInfoInputs.cache
 /Users/amandiop/Desktop/ApConso/ApConso/ApConso/obj/Debug/net7.0/ApConso.AssemblyInfo.cs
 /Users/amandiop/Desktop/ApConso/ApConso/ApConso/obj/Debug/net7.0/ApConso.csproj.CoreCompileInputs.cache
+/Users/amandiop/Desktop/ApConso/ApConso/ApConso/obj/Debug/net7.0/ApConso.csproj.CopyComplete
 /Users/amandiop/Desktop/ApConso/ApConso/ApConso/obj/Debug/net7.0/ApConso.dll
 /Users/amandiop/Desktop/ApConso/ApConso/ApConso/obj/Debug/net7.0/refint/ApConso.dll
 /Users/amandiop/Desktop/ApConso/ApConso/ApConso/obj/Debug/net7.0/ApConso.pdb

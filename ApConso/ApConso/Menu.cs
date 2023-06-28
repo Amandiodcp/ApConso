@@ -9,12 +9,12 @@ namespace AppAmandio
         {
             while (true)
             {
-                Console.WriteLine("Menu");
+                Console.WriteLine("-----MENU------");
                 Console.WriteLine("1. Elèves");
                 Console.WriteLine("2. Cours");
                 Console.WriteLine("3. Sortir");
 
-                Console.Write("Sélectionne un Numero/option: ");
+                Console.Write("-Sélectionne un Numero/option: ");
                 string selection = Console.ReadLine();
 
                 switch (selection)

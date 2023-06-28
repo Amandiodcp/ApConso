@@ -1,4 +1,33 @@
 ﻿<Properties StartupConfiguration="{2027AD0D-F166-43B6-9D3C-7374B4089067}|Default">
-  <MonoDevelop.Ide.ItemProperties.ApConso FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ApConso PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApConso/EleveMenu.cs">
+    <Files>
+      <File FileName="ApConso/Program.cs" />
+      <File FileName="ApConso/chemin_vers_le_fichier.json" />
+      <File FileName="ApConso/Menu.cs" />
+      <File FileName="ApConso/EleveMenu.cs" Line="13" Column="23" />
+      <File FileName="ApConso/CoursMenu.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApConso" expanded="True">
+            <Node name="ApConso" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="EleveMenu.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

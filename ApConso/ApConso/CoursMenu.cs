@@ -9,7 +9,7 @@ namespace AppAmandio
         {
             while (true)
             {
-                Console.WriteLine("MENU COURS");
+                Console.WriteLine("-----MENU COURS-----");
                 Console.WriteLine("1. Lister les cours");
                 Console.WriteLine("2. Ajouter un nouveau cours");
                 Console.WriteLine("3. Supprimer un cours");
@@ -72,7 +72,7 @@ namespace AppAmandio
 
         static void AjouterCours(List<Eleve> eleves)
         {
-            Console.WriteLine("AJOUTER COURS");
+            Console.WriteLine("--AJOUTER COURS--");
 
             Console.Write("ID de l'élève : ");
             int id;
@@ -100,7 +100,7 @@ namespace AppAmandio
 
         static void SupprimerCours(List<Eleve> eleves)
         {
-            Console.WriteLine(" SUPPRIMER UN COURS");
+            Console.WriteLine("--SUPPRIMER UN COURS--");
 
             Console.Write("ID de l'élève : ");
             int id;

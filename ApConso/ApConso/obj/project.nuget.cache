@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E4Ft4h7xRpbI9njnT5kSDkE1vg8vYzTYl+KCxZgrVRcCiOUP/nbzzPvvX1le6gprG7K4Qpfnse0wbn+zH23uJA==",
+  "dgSpecHash": "16jvfX8VVQBiM7ywOvqkqzGs5jwkfPeHttCoHNj4xSRv2EB/libqhjcl3izgl3+9LqvX30C1jVbfZ/vRQXzekw==",
   "success": true,
   "projectFilePath": "/Users/amandiop/Desktop/ApConso/ApConso/ApConso/ApConso.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/amandiop/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
